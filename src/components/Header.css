@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 10px; /* Match the padding of the footer */
+    background-color: #fff;
+    color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box; /* Ensure padding and width are calculated correctly */
+    font-family: 'Noto Sans JP', sans-serif; /* Apply the Noto Sans JP font */
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.logo {
+    height: auto;
+    max-width: 120px; /* Ensure logo doesn't exceed this width */
+    flex: 1; /* Allow the logo to grow if there is space */
+}
+
+.menu-icon {
+    width: 28px; /* Set the size for the menu icon */
+    height: 28px;
+    flex-shrink: 0; /* Prevent the menu icon from shrinking */
+    cursor: pointer; /* Ensure cursor changes to pointer on hover */
+}
+
+/* Dropdown menu styles */
+.dropdown-menu {
+    position: absolute;
+    top: 60px;
+    right: 10px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    z-index: 3; /* Ensure dropdown is above other content */
+}
+
+    .dropdown-menu a {
+        padding: 10px 20px;
+        text-decoration: none;
+        color: black;
+        border-bottom: 1px solid #ccc;
+    }
+
+        .dropdown-menu a:hover {
+            background-color: #f6f6f6;
+        }
+
+        .dropdown-menu a:last-child {
+            border-bottom: none;
+        }
+
+body.dark-mode .dropdown-menu {
+    background-color: #333;
+    border-color: #444;
+}
+
+    body.dark-mode .dropdown-menu a {
+        color: white;
+        border-bottom-color: #444;
+    }
+
+        body.dark-mode .dropdown-menu a:hover {
+            background-color: #555;
+        }

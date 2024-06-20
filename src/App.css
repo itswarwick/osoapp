@@ -1,0 +1,179 @@
+body {
+    margin: 0;
+    font-family: "Noto Sans JP", sans-serif;
+    font-weight: 400;
+    background-color: #f6f6f6;
+    color: black;
+    overflow-y: auto;
+}
+
+    body.dark-mode {
+        background-color: #1b1b1b;
+        color: white;
+    }
+
+.header, .footer {
+    background-color: #fff;
+    color: black;
+}
+
+body.dark-mode .header, body.dark-mode .footer {
+    background-color: #000;
+    color: white;
+}
+
+.intro-text {
+    margin: 80px 20px 0px 20px;
+    padding: 20px 10px;
+    text-align: left;
+    background-color: #f6f6f6;
+    color: black;
+    border-radius: 10px;
+}
+
+body.dark-mode .intro-text {
+    background-color: #1b1b1b;
+    color: white;
+}
+
+.intro-text h1 {
+    font-size: 2em; /* Adjust size as needed */
+    font-weight: 700; /* Bold */
+    margin: 10px 0 10px 0; /* Updated margin: 10px top, 0 left, 10px bottom, 0 right */
+    padding: 0; /* Reset padding */
+}
+
+.intro-text p {
+    margin: 16px 0 0 0; /* Adjust as needed */
+}
+
+.footer-icon {
+    font-size: 28px;
+    width: 28px;
+    height: 28px;
+}
+
+.icon {
+    width: 28px;
+    height: 28px;
+}
+
+.icon-light {
+    display: none;
+}
+
+body.dark-mode .icon-light {
+    display: inline-block;
+}
+
+body.dark-mode .icon-dark {
+    display: none;
+}
+
+.calendar {
+    background-color: #f6f6f6;
+    margin: 0 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+body.dark-mode .calendar {
+    background-color: #1b1b1b;
+    color: white;
+}
+
+.day {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    background-color: #f6f6f6;
+    border-radius: 12px;
+    cursor: pointer;
+    color: black;
+    flex-grow: 1;
+    margin: 0;
+    min-width: 0;
+}
+
+body.dark-mode .day {
+    background-color: #1b1b1b;
+    color: white;
+}
+
+.day.selected {
+    background-color: #245EC7;
+    color: white;
+}
+
+body.dark-mode .day.selected {
+    background-color: black;
+    color: white;
+}
+
+.day div:first-child {
+    font-weight: bold;
+    font-size: 15px;
+    color: #737373;
+}
+
+body.dark-mode .day div:first-child {
+    color: white;
+}
+
+.day div:last-child {
+    padding-top: 10px;
+    color: black;
+    font-weight: bold;
+}
+
+body.dark-mode .day div:last-child {
+    color: white;
+}
+
+.day.selected div:first-child,
+.day.selected div:last-child {
+    color: white;
+}
+
+.footer-icon:nth-child(1) img {
+    width: 30px;
+    height: 30px;
+}
+
+.footer-icon:nth-child(2) img {
+    width: 28px;
+    height: 28px;
+}
+
+.footer-icon:nth-child(3) img {
+    width: 28px;
+    height: 28px;
+}
+
+.footer-icon:nth-child(4) img {
+    width: 26px;
+    height: 26px;
+}
+
+.separator {
+    border: 0;
+    height: 1px;
+    background: #cccccc; /* Light gray color */
+    margin: 20px 0; /* Adjust the spacing as needed */
+}
+
+/* Workout list styles */
+.workout-list li {
+    background-color: #f6f6f6; /* Light mode color */
+    margin: 5px 0;
+    padding: 0px; /* Keep padding for light mode */
+    border-radius: 5px;
+    text-align: center; /* Center align list items */
+}
+
+body.dark-mode .workout-list li {
+    background-color: #1b1b1b; /* Match the background color in dark mode */
+    color: white; /* Ensure the text color is white in dark mode */
+    padding: 10px; /* Keep padding for dark mode */
+}

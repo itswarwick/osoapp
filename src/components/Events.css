@@ -1,0 +1,24 @@
+.page-content {
+    margin: 80px 20px 0px 20px; /* Add margin: 80px top, 10px left, 0px bottom, 10px right */
+    padding: 20px 10px;
+    text-align: left; /* Align text to the left */
+    background-color: #f6f6f6; /* Background color to distinguish it */
+    color: black;
+    border-radius: 10px; /* Optional: Adds rounded corners to the box */
+}
+
+body.dark-mode .page-content {
+    background-color: #1b1b1b; /* Dark mode background color */
+    color: white; /* Dark mode text color */
+}
+
+.page-content h1 {
+    font-size: 2em; /* Adjust size as needed */
+    font-weight: 700; /* Bold */
+    margin: 0; /* Reset margin */
+    padding: 0; /* Reset padding */
+}
+
+.page-content p {
+    margin: 16px 0 0 0; /* Adjust as needed */
+}

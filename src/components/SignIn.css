@@ -1,0 +1,62 @@
+.sign-in {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('https://cdn.shopify.com/s/files/1/0677/8601/5024/files/HBMap.png?v=1717809034');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+    .sign-in .logo {
+        width: 420px; /* Set the width as needed */
+        position: absolute;
+        top: 40%; /* Position the logo 40% down the page */
+        transform: translateY(-50%); /* Center the logo vertically */
+    }
+
+.button-container {
+    position: absolute;
+    bottom: 20%; /* Position the buttons lower on the screen */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.sign-in button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    transition: opacity 0.3s;
+    width: 80%;
+    max-width: 300px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    .sign-in button.google {
+        background-color: #4285F4;
+    }
+
+    .sign-in button.facebook {
+        background-color: #3b5998;
+    }
+
+    .sign-in button:hover {
+        opacity: 1;
+    }
+
+    .sign-in button img {
+        margin-right: 10px;
+        height: 24px;
+        width: 24px;
+    }

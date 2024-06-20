@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: "Noto Sans JP", sans-serif;
+    font-weight: 400; /* Default weight, adjust as needed */
+    background-color: #f6f6f6;
+    color: black;
+    overflow-y: auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 10px;
+    background-color: #fff;
+    color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 10px;
+    background-color: #fff;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 2;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+}
+
+.footer-icon {
+    font-size: 28px;
+}

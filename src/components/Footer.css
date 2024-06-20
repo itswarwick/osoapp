@@ -1,0 +1,42 @@
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 10px;
+    background-color: #fff;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 2;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+}
+
+body.dark-mode .footer {
+    background-color: #000;
+    color: white;
+}
+
+.footer-icon {
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    border-radius: 5px; /* Optional: adds rounded corners */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon {
+    width: 100%;
+    height: auto;
+}
+
+.footer-icon.active {
+    border: 2px solid #ccc; /* Light mode color */
+}
+
+body.dark-mode .footer-icon.active {
+    border: 2px solid #333; /* Dark mode color */
+}

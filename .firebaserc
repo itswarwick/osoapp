@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "oso-pwa",
+    "v1.0": "oso-pwa"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}

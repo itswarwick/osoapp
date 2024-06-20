@@ -1,0 +1,66 @@
+.calendar {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #f6f6f6; /* Light mode color */
+    margin: 0 10px;
+    border-radius: 10px;
+}
+
+body.dark-mode .calendar {
+    background-color: #1b1b1b; /* Dark mode color */
+}
+
+.day {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    background-color: #f6f6f6; /* Light mode color */
+    border-radius: 12px;
+    cursor: pointer;
+    color: black;
+    flex-grow: 1;
+    margin: 0;
+    min-width: 0;
+}
+
+body.dark-mode .day {
+    background-color: #1b1b1b; /* Dark mode color */
+    color: white;
+}
+
+.day:hover {
+    background-color: #333;
+    color: white;
+}
+
+.day.selected {
+    background-color: #245EC7 !important;
+    color: white;
+}
+
+.day div:first-child {
+    font-weight: bold;
+    font-size: 15px;
+    color: #737373;
+}
+
+body.dark-mode .day div:first-child {
+    color: white;
+}
+
+.day div:last-child {
+    padding-top: 10px;
+    color: black;
+    font-weight: bold;
+}
+
+body.dark-mode .day div:last-child {
+    color: white;
+}
+
+.day.selected div:first-child,
+.day.selected div:last-child {
+    color: white;
+}

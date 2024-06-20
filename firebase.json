@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "public": "dist", // Change to 'dist' where Webpack outputs the files
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

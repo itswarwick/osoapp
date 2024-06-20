@@ -1,0 +1,1044 @@
+{
+  "2024-05-27": {
+    "MONDAY": {
+      "title": "Full Body Blast",
+      "details": "40 Cals/Reps, 30, etc...",
+      "exercises": [
+        "40-30-20-10-5",
+        "Bike Cals",
+        "Bench Press 40kg",
+        "Sissy squats",
+        "10-8-6-4-2",
+        "Pull Ups",
+        "into...",
+        "Ghd Sit Ups 5x10"
+      ]
+    }
+  },
+  "2024-05-28": {
+    "TUESDAY": {
+      "title": "Push & Pull Pump",
+      "exercises": [
+        "50 calorie ski",
+        "3x10 DB Bench & 1x Max Reps 1/2 Weight",
+        "3x10 Bent Over Row & 1x Max Reps 1/2 Weight",
+        "3x10 Shoulder Press & 1x Max Reps 1/2 Weight",
+        "3x10 Lat Pull Downs & 1x Max Reps 1/2 Weight",
+        "3x10 Lateral Raises & 1x Max Reps 1/2 Weight",
+        "3x10 Leg Extensions & 1x Max Reps 1/2 Weight",
+        "3x10 Leg Press & 1x Max Reps 1/2 Weight"
+      ]
+    }
+  },
+  "2024-05-29": {
+    "WEDNESDAY": {
+      "title": "Perfectly Balanced",
+      "phases": [
+        {
+          "phase_title": "Cardio",
+          "exercises": [
+            "2.5 Mile Run",
+            "2KM Row",
+            "1KM Ski",
+            "2.5 Mile Run"
+          ]
+        },
+        {
+          "phase_title": "Accessories",
+          "details": "Can be done as a circuit.",
+          "exercises": [
+            "4x10 Pull Ups",
+            "4x12 Toes to Bar",
+            "4x10 Hang Cleans",
+            "4x5 Power Cleans"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-05-30": {
+    "THURSDAY": {
+      "title": "170 Burpees",
+      "phases": [
+        {
+          "phase_title": "Warm Up",
+          "details": "10 Rounds",
+          "exercises": [
+            "100M Shuttle Run OR 0.06 Miles on a Treadmill",
+            "10 Burpees",
+            "Rest 3 Minutes After 10 Rounds"
+          ]
+        },
+        {
+          "phase_title": "Work",
+          "details": "Row, Burpee, Row, Burpee",
+          "exercises": [
+            "1000m Row, 750m Row, 500m Row, 250m Row",
+            "25 Burpees, 20 Burpees, 15 Burpees, 10 Burpees"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-05-31": {
+    "FRIDAY": {
+      "title": "Hybrid Hell",
+      "phases": [
+        {
+          "phase_title": "Warm Up",
+          "details": "Stretching & Mobility Work",
+          "exercises": [
+            "10x Clean & Jerks"
+          ]
+        },
+        {
+          "phase_title": "Strength Work",
+          "exercises": [
+            "3x5 Weighted Chin Ups",
+            "3x10 Weighted Dips"
+          ]
+        },
+        {
+          "phase_title": "Finisher",
+          "details": "21-15-9",
+          "exercises": [
+            "Front Squats",
+            "Burpees Over Bar"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-06-01": {
+    "SATURDAY": {
+      "title": "Double Trouble",
+      "phases": [
+        {
+          "phase_title": "Phase 1",
+          "details": "4 Rounds",
+          "exercises": [
+            "50 Cal Echo Bike",
+            "10x Barbell Push Press",
+            "10x Toes To Bar"
+          ]
+        },
+        {
+          "phase_title": "Phase 2",
+          "details": "AMRAP 20'",
+          "exercises": [
+            "15 Cal Echo Bike",
+            "30 V-Ups",
+            "16 Push Press"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-06-02": {
+    "SUNDAY": {
+      "title": "Rest"
+    }
+  },
+  "2024-06-03": {
+    "MONDAY": {
+      "title": "Full Body Blast",
+      "details": "40 Cals/Reps, 30, etc...",
+      "exercises": [
+        "40-30-20-10-5",
+        "Bike Cals",
+        "Bench Press 40kg",
+        "Sissy squats",
+        "10-8-6-4-2",
+        "Pull Ups",
+        "into...",
+        "Ghd Sit Ups 5x10"
+      ]
+    }
+  },
+  "2024-06-04": {
+    "TUESDAY": {
+      "title": "Push & Pull Pump",
+      "exercises": [
+        "50 calorie ski",
+        "3x10 DB Bench & 1x Max Reps 1/2 Weight",
+        "3x10 Bent Over Row & 1x Max Reps 1/2 Weight",
+        "3x10 Shoulder Press & 1x Max Reps 1/2 Weight",
+        "3x10 Lat Pull Downs & 1x Max Reps 1/2 Weight",
+        "3x10 Lateral Raises & 1x Max Reps 1/2 Weight",
+        "3x10 Leg Extensions & 1x Max Reps 1/2 Weight",
+        "3x10 Leg Press & 1x Max Reps 1/2 Weight"
+      ]
+    }
+  },
+  "2024-06-05": {
+    "WEDNESDAY": {
+      "title": "Perfectly Balanced",
+      "phases": [
+        {
+          "phase_title": "Cardio",
+          "exercises": [
+            "2.5 Mile Run",
+            "2KM Row",
+            "1KM Ski",
+            "2.5 Mile Run"
+          ]
+        },
+        {
+          "phase_title": "Accessories",
+          "details": "Can be done as a circuit.",
+          "exercises": [
+            "4x10 Pull Ups",
+            "4x12 Toes to Bar",
+            "4x10 Hang Cleans",
+            "4x5 Power Cleans"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-06-06": {
+    "THURSDAY": {
+      "title": "170 Burpees",
+      "phases": [
+        {
+          "phase_title": "Warm Up",
+          "details": "10 Rounds",
+          "exercises": [
+            "100M Shuttle Run OR 0.06 Miles on a Treadmill",
+            "10 Burpees",
+            "Rest 3 Minutes After 10 Rounds"
+          ]
+        },
+        {
+          "phase_title": "Work",
+          "details": "Row, Burpee, Row, Burpee",
+          "exercises": [
+            "1000m Row, 750m Row, 500m Row, 250m Row",
+            "25 Burpees, 20 Burpees, 15 Burpees, 10 Burpees"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-06-07": {
+    "FRIDAY": {
+      "title": "Hybrid Hell",
+      "phases": [
+        {
+          "phase_title": "Warm Up",
+          "details": "Stretching & Mobility Work",
+          "exercises": [
+            "10x Clean & Jerks"
+          ]
+        },
+        {
+          "phase_title": "Strength Work",
+          "exercises": [
+            "3x5 Weighted Chin Ups",
+            "3x10 Weighted Dips"
+          ]
+        },
+        {
+          "phase_title": "Finisher",
+          "details": "21-15-9",
+          "exercises": [
+            "Front Squats",
+            "Burpees Over Bar"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-06-08": {
+    "SATURDAY": {
+      "title": "Double Trouble",
+      "phases": [
+        {
+          "phase_title": "Phase 1",
+          "details": "4 Rounds",
+          "exercises": [
+            "50 Cal Echo Bike",
+            "10x Barbell Push Press",
+            "10x Toes To Bar"
+          ]
+        },
+        {
+          "phase_title": "Phase 2",
+          "details": "AMRAP 20'",
+          "exercises": [
+            "15 Cal Echo Bike",
+            "30 V-Ups",
+            "16 Push Press"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-06-09": {
+    "SUNDAY": {
+      "title": "Rest"
+    }
+  },
+  "2024-06-10": {
+    "MONDAY": {
+      "title": "20' Burnout",
+      "details": "20' AMRAP",
+      "exercises": [
+        "30 Calorie Row",
+        "25 Wall Balls @ 20#",
+        "20 Toes to Bar",
+        "15 Burpees",
+        "10 Power Cleans @ 135#",
+        "250M Run"
+      ]
+    }
+  },
+  "2024-06-11": {
+    "TUESDAY": {
+      "title": "Cardio Test",
+      "details": "Increase cals per round by 5. Pacing yourself is important here.",
+      "exercises": [
+        "40 Minute AMRAP.",
+        "5-10-15-20-25…",
+        "Ski Erg",
+        "Assault Bike"
+      ]
+    }
+  },
+  "2024-06-12": {
+    "WEDNESDAY": {
+      "title": "Run and Flush",
+      "exercises": [
+        "8KM Run.",
+        "100 Cal Bike Erg",
+        "100 Cal Row",
+        "100 Cal Assault Bike"
+      ]
+    }
+  },
+  "2024-06-13": {
+    "THURSDAY": {
+      "title": "Lead Legs",
+      "phases": [
+        {
+          "phase_title": "Strength Work",
+          "exercises": [
+            "10 Min Bike Erg",
+            "5x5 Back Squat",
+            "3x4 Front Squat",
+            "4x8 RDL"
+          ]
+        },
+        {
+          "phase_title": "Quick Sweat",
+          "details": "Bike Erg Intervals - 6 rounds",
+          "exercises": [
+            "40 Seconds On, 20 Seconds Off"
+          ]
+        },
+        {
+          "phase_title": "Spin Class",
+          "exercises": [
+            "20 Minutes Bike Erg for Max Cals"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-06-14": {
+    "FRIDAY": {
+      "title": "Upper Strength Work",
+      "phases": [
+        {
+          "phase_title": "Calisthenics",
+          "details": "Stretching & Mobility Work First.",
+          "exercises": [
+            "5x5 Pike Push Ups",
+            "5x3 Headstand Push Ups",
+            "3x8-10 Strict Pull Ups",
+            "3x10-12 Aussie Pull Ups",
+            "3x10-12 Ring Bicep Curls"
+          ]
+        },
+        {
+          "phase_title": "Strength Work",
+          "exercises": [
+            "4x6 Weighted Dips",
+            "4x10-12 Incline DB Press",
+            "4x10-12 Bent Over Row",
+            "10x 30 Second Sprints on Rower"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-06-15": {
+    "SATURDAY": {
+      "title": "9KM Run",
+      "exercises": [
+        "2KM Slow",
+        "5KM Fast",
+        "2KM Slow"
+      ]
+    }
+  },
+  "2024-06-16": {
+    "SUNDAY": {
+      "title": "Hyrox",
+      "details": "50 Min Timecap",
+      "exercises": [
+        "1KM Run",
+        "25 GHD Sit Ups",
+        "1KM Ski",
+        "25M Lunges",
+        "1KM Row",
+        "25m Farmers Carry",
+        "1KM Run",
+        "25 Wall Balls @ 20lbs",
+        "1KM Ski",
+        "25 GHD Sit Ups",
+        "1KM Row"
+      ]
+    }
+  },
+  "2024-06-17": {
+    "MONDAY": {
+      "title": "Legs & Abs Work",
+      "phases": [
+        {
+          "phase_title": "Phase 1",
+          "exercises": [
+            "5KM Run"
+          ]
+        },
+        {
+          "phase_title": "Phase 2",
+          "details": "40-30-20-10",
+          "exercises": [
+            "GHD Sit Ups",
+            "Goblet Squats"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-06-18": {
+    "TUESDAY": {
+      "title": "Push & Pull Pump",
+      "phases": [
+        {
+          "phase_title": "Warm Up",
+          "exercises": [
+            "25 Kettle Bell Swings",
+            "25 Burpees",
+            "40 Cal Bike Erg"
+          ]
+        },
+        {
+          "phase_title": "Session",
+          "details": "EMOM'35. Increase calories by 1 after each 5 minute round.",
+          "exercises": [
+            "Min 1: 12 Cal Row",
+            "Min 2: 12 Dumbbell Deadlifts",
+            "Min 3: 12 Cal Ski Erg",
+            "Min 4: 8 Dumbbell Overhead Press",
+            "Min 5: 12 Cal Bike Erg"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-06-19": {
+    "WEDNESDAY": {
+      "title": "Movement, Lifting, Pump",
+      "phases": [
+        {
+          "phase_title": "Phase 1",
+          "exercises": [
+            "2.5 mile run",
+            "2km row",
+            "1km ski",
+            "2.5 mile run"
+          ]
+        },
+        {
+          "phase_title": "Phase 2",
+          "details": "Can be done as a circuit.",
+          "exercises": [
+            "4x12 Cable Rows",
+            "4x12 Barbell Bicep Curls",
+            "4x12 Lateral Raises",
+            "4x12 Cable Tricep Pushdowns"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-06-20": {
+    "THURSDAY": {
+      "title": "Hyrox Endurance",
+      "details": "If you're doing this solo, YGIGs do half time. 5 Min > 2.5 Min. AMRAP in each time .",
+      "exercises": [
+        "5 Min Ski",
+        "5 Min Sled Push YGIG",
+        "1KM Run",
+        "Rest 1 Min",
+        "5 Min Sled Pull YGIG",
+        "5 Min Burpee Broad Jumps",
+        "1KM Run",
+        "Rest 1 Min",
+        "5 Min Farmer Carries",
+        "5 Min Rower",
+        "1KM Run",
+        "5 Min Weighted Lunges YGIG",
+        "5 Min Wall Balls YGIG",
+        "1KM Run",
+        "Rest 1 Min"
+      ]
+    }
+  },
+  "2024-06-21": {
+    "FRIDAY": {
+      "title": "Body Work",
+      "exercises": [
+        "10 Min Bike Erg Buy In",
+        "4x10 Lat Pulldowns",
+        "4x10 Bent Over DB Rows",
+        "4x10 Close Grip Rows",
+        "4x10 Lateral Cables Extensions",
+        "4x10 Bicep Cable Curls",
+        "4x10 DB Bicep Curls",
+        "4x10 Barbell Bicep Curls",
+        "10 Min Erg Bike Buy Out"
+      ]
+    }
+  },
+  "2024-06-22": {
+    "SATURDAY": {
+      "title": "Indoor Cardio Piece",
+      "exercises": [
+        "6KM Run",
+        "6KM Bike Erg"
+      ]
+    }
+  },
+  "2024-06-23": {
+    "SUNDAY": {
+      "title": "Rest"
+    }
+  },
+  "2024-06-24": {
+    "MONDAY": {
+      "title": "Zone 2 Cardio",
+      "details": "Your choice of cardio. I do low intensity stair master. Aim for ~140 BPM.",
+      "exercises": [
+        "50-60 Minutes Zone 2"
+      ]
+    }
+  },
+  "2024-06-25": {
+    "TUESDAY": {
+      "title": "...More Cardio",
+      "phases": [
+        {
+          "phase_title": "Phase 1",
+          "details": "45 Min. EMOM. 12 Cal/Reps each minute.",
+          "exercises": [
+            "Ski Cals",
+            "Bent Over Rows",
+            "Bike Cals",
+            "Shoulder Press",
+            "Row Cals"
+          ]
+        },
+        {
+          "phase_title": "Phase 2",
+          "details": "15 Min Timecap.",
+          "exercises": [
+            "60 Cal Row",
+            "50 Sit Ups",
+            "40 Wall Balls @ 20#",
+            "30 Kettlebell Snatches (15 per side)",
+            "20 Pull Ups"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-06-26": {
+    "WEDNESDAY": {
+      "title": "Track Session",
+      "exercises": [
+        "1KM Fast, 3 Min Rest",
+        "Repeat 6 Times"
+      ]
+    }
+  },
+  "2024-06-27": {
+    "THURSDAY": {
+      "title": "Hyrox Timer",
+      "phases": [
+        {
+          "phase_title": "4.5 Min Block",
+          "details": "Repeat Until Clock Ends",
+          "exercises": [
+            "12.5M Sled Push",
+            "50M Shuttle Run"
+          ]
+        },
+        {
+          "phase_title": "4.5 Min Block",
+          "details": "Repeat Until Clock Ends",
+          "exercises": [
+            "12.5M Sled Pull",
+            "50M Farmers Carry"
+          ]
+        },
+        {
+          "phase_title": "3 Min Block",
+          "details": "Repeat Until Clock Ends",
+          "exercises": [
+            "5x DBall Squats (Heavy)",
+            "Rest Same Time (10 Seconds)"
+          ]
+        },
+        {
+          "phase_title": "3 Min Block",
+          "exercises": [
+            "Run, Max Cals"
+          ]
+        },
+        {
+          "phase_title": "3 Min Block",
+          "details": "Repeat Until Clock Ends",
+          "exercises": [
+            "5x Box Jumps",
+            "Rest Same Time (10 Seconds)"
+          ]
+        },
+        {
+          "phase_title": "3 Min Block",
+          "exercises": [
+            "Row, Max Cals"
+          ]
+        },
+        {
+          "phase_title": "3 Min Block",
+          "exercises": [
+            "Bodyweight Lunges"
+          ]
+        },
+        {
+          "phase_title": "3 Min Block",
+          "exercises": [
+            "Ski, Max Cals"
+          ]
+        },
+        {
+          "phase_title": "3 Min Block",
+          "exercises": [
+            "Wall Balls @ 12#"
+          ]
+        },
+        {
+          "phase_title": "3 Min Block",
+          "exercises": [
+            "Assault Bike, Max Cals"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-06-28": {
+    "FRIDAY": {
+      "title": "Rest"
+    }
+  },
+  "2024-06-29": {
+    "SATURDAY": {
+      "title": "Sweet Sweat",
+      "phases": [
+        {
+          "phase_title": "AMRAP",
+          "details": "Aim for 30 cals each machine in the 2 min. Any leftover time is rest.",
+          "exercises": [
+            "2 Min Bike Erg",
+            "2 Min Ski Erg"
+          ]
+        },
+        {
+          "phase_title": "Finisher",
+          "exercises": [
+            "10 Min Easy Bike Erg Buy-In",
+            "4x20 GHD Sit Ups",
+            "4x8 Pull Ups",
+            "10 Min Easy Bike Erg Buy-Out"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-06-30": {
+    "SUNDAY": {
+      "title": "Beach Muscles",
+      "phases": [
+        {
+          "phase_title": "10' AMRAP",
+          "details": "1 Minute Rest AFTER 10 Minutes is up.",
+          "exercises": [
+            "8x Bench Press @ 155#",
+            "8x Bodyweight Pull Ups",
+            "Rest 1 Minute"
+          ]
+        },
+        {
+          "phase_title": "10' AMRAP",
+          "details": "1 Minute Rest AFTER 10 Minutes is up.",
+          "exercises": [
+            "6x Bench Press @ 135#",
+            "6x Pull Ups @ 35#",
+            "Rest 1 Minute"
+          ]
+        },
+        {
+          "phase_title": "10' AMRAP",
+          "details": "5 Minute Rest AFTER 10 Minutes is up.",
+          "exercises": [
+            "8x Bodyweight Dips",
+            "4x Pull Ups @ 45#",
+            "Rest 5 Minutes"
+          ]
+        },
+        {
+          "phase_title": "Superset",
+          "details": "4 Rounds",
+          "exercises": [
+            "10x Lateral Raises",
+            "10x Front Raises",
+            "10x Tricep Pushdowns",
+            "10x Overhead Tricep Extensions"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-07-01": {
+    "MONDAY": {
+      "title": "Troublesome 3's",
+      "phases": [
+        {
+          "phase_title": "3 Rounds",
+          "details": "500m Jog Warm Up First",
+          "exercises": [
+            "250m Run Max Effort",
+            "Farmers Carry 50m",
+            "Rest 30 Seconds"
+          ]
+        },
+        {
+          "phase_title": "3 Rounds",
+          "exercises": [
+            "250m Row Max Effort",
+            "8x DB Overhead Press",
+            "Rest 30 Seconds"
+          ]
+        },
+        {
+          "phase_title": "3 Rounds",
+          "exercises": [
+            "250m Ski Max Effort",
+            "12x Wall Balls",
+            "Rest 30 Seconds"
+          ]
+        },
+        {
+          "phase_title": "3 Rounds",
+          "exercises": [
+            "25m Bear Crawl",
+            "50m Walking Lunges",
+            "Rest 30 Seconds"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-07-02": {
+    "TUESDAY": {
+      "title": "Sprint Work",
+      "details": "Repeat 3 Times",
+      "exercises": [
+        "1000m Slow Pace",
+        "Rest 60 Seconds",
+        "300m Fast",
+        "Rest 60 Seconds",
+        "300m Fast",
+        "Rest 60 Seconds",
+        "300m Fast",
+        "Rest 60 Seconds"
+      ]
+    }
+  },
+  "2024-07-03": {
+    "WEDNESDAY": {
+      "title": "Squats and... More Sprints",
+      "phases": [
+        {
+          "phase_title": "Cardio First",
+          "exercises": [
+            "1 x 800m Warm Up Slow Pace 60’ Rest",
+            "3 x 800m 60’ Rest Between",
+            "Rest 3 Minutes",
+            "4 x 600m 60’ Rest Between",
+            "Rest 3 Minutes",
+            "5 x 400m 60’ Rest Between",
+            "Rest 3 Minutes"
+          ]
+        },
+        {
+          "phase_title": "Squats",
+          "exercises": [
+            "5x8 Box Squats",
+            "3x15 (per leg) Weighted Walking Lunges"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-07-04": {
+    "THURSDAY": {
+      "title": "Deload Day",
+      "phases": [
+        {
+          "phase_title": "Zone 2 Training",
+          "exercises": [
+            "10 Min Bike Erg",
+            "10 Min Ski Erg",
+            "10 Min Row Erg"
+          ]
+        },
+        {
+          "phase_title": "Into 4 Rounds of...",
+          "exercises": [
+            "12x DB Lateral Raises",
+            "10x Toes to Bar",
+            "8x Dips"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-07-05": {
+    "FRIDAY": {
+      "title": "HYROX Practice",
+      "phases": [
+        {
+          "phase_title": "25' EMOM",
+          "exercises": [
+            "Min 1. 20 Wall Balls 9kg",
+            "Min 2. 20 Cal Ski",
+            "Min 3. 15 Toes to Bar",
+            "Min 4. Max Cal Row",
+            "Min 5. 1 Min Rest"
+          ]
+        },
+        {
+          "phase_title": "3 Min Rest, then 20' EMOM",
+          "exercises": [
+            "25m Sled Pull",
+            "100m Farmers Carry",
+            "500m Run"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-07-06": {
+    "SATURDAY": {
+      "title": "Track Work",
+      "phases": [
+        {
+          "phase_title": "Slog Sesh",
+          "exercises": [
+            "2000m @ [5K PACE]",
+            "3 Min Rest",
+            "1000m @ [5K PACE]",
+            "3 Min Rest",
+            "500m @ [5K PACE]",
+            "3 Min Rest",
+            "2000m @ [5K PACE]",
+            "3 Min Rest",
+            "1000m @ [5K PACE]",
+            "3 Min Rest",
+            "500m @ [5K PACE]",
+            "3 Min Rest"
+          ]
+        },
+        {
+          "phase_title": "Into a Pump",
+          "exercises": [
+            "100x Push Ups",
+            "100x DB Bicep Curls",
+            "100x Cable Tricep Extensions",
+            "50x Pull Ups",
+            "50x Dips"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-07-07": {
+    "SUNDAY": {
+      "title": "HYROX Cool Down",
+      "phases": [
+        {
+          "phase_title": "Part 1",
+          "details": "10' EMOM",
+          "exercises": [
+            "20x Wall Balls 20#"
+          ]
+        },
+        {
+          "phase_title": "Part 2",
+          "details": "In a 5 Minute Window",
+          "exercises": [
+            "500m Ski",
+            "25m Sled Push",
+            "Max Distance Burpee Broad Jumps for What's Left",
+            "Rest 2 Minutes",
+            "Repeat 3x"
+          ]
+        },
+        {
+          "phase_title": "Part 3",
+          "exercises": [
+            "500m Row",
+            "25m Sled Pull",
+            "Max Distance Farmer Carry for What's Left",
+            "Rest 2 Minutes",
+            "Repeat 3x"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-07-08": {
+    "MONDAY": {
+      "title": "Supersets",
+      "phases": [
+        {
+          "phase_title": "Warm Up",
+          "exercises": [
+            "1 Min Bike Erg",
+            "1 Min Ski",
+            "Repeat 3 Times"
+          ]
+        },
+        {
+          "phase_title": "WORKOUT",
+          "details": "Exercises done in pairs.",
+          "exercises": [
+            "A.) 5x5 Bench Press",
+            "A.) 5x10 GHD Sit Ups",
+            "B.) 4x10 Dips",
+            "B.) 4x10 Toes to Bar",
+            "C.) 4x5 Seated DB Shoulder Press",
+            "C.) 4x14 Butterfly Sit Ups",
+            "D.) 4x10 Rear Delt Raises",
+            "D.) 4x10 Cable Lateral Raises",
+            "E.) 4x10 Barbell Bicep Curls",
+            "E.) 4x10 GHD Sit Ups"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-07-09": {
+    "TUESDAY": {
+      "title": "Time Trial",
+      "phases": [
+        {
+          "phase_title": "Warm Up",
+          "exercises": [
+            "400m Easy Jog"
+          ]
+        },
+        {
+          "phase_title": "For Time",
+          "details": "Go for a PR",
+          "exercises": [
+            "5km Run"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-07-10": {
+    "WEDNESDAY": {
+      "title": "Bodybuilding",
+      "exercises": [
+        "4x10 Pull Ups",
+        "4x10 Bent Over Rows, Single Arm",
+        "4x10 Lat Pull Downs",
+        "4x10 Cable Rows",
+        "4x10 KB Swings [HEAVY]"
+      ]
+    }
+  },
+  "2024-07-11": {
+    "THURSDAY": {
+      "title": "Hyrox Practice Run",
+      "details": "Keep track of time.",
+      "exercises": [
+        "1km Run",
+        "1km Ski",
+        "1km Run",
+        "50m Sled Push",
+        "1km Run",
+        "100m Sled Pull",
+        "1km Run",
+        "1km Burpee Broad Jumps",
+        "1km Run",
+        "1km Row",
+        "1km Run",
+        "100m Lunges",
+        "1km Run",
+        "100 Wall Balls"
+      ]
+    }
+  },
+  "2024-07-12": {
+    "FRIDAY": {
+      "title": "Recovery",
+      "exercises": [
+        "5km Walk",
+        "25 Min Sauna"
+      ]
+    }
+  },
+  "2024-07-13": {
+    "SATURDAY": {
+      "title": "Intervals",
+      "phases": [
+        {
+          "phase_title": "10 Sets",
+          "exercises": [
+            "250m Ski Erg",
+            "30 Seconds Rest"
+          ]
+        },
+        {
+          "phase_title": "10 Sets",
+          "exercises": [
+            "500m Row",
+            "60 Seconds Rest"
+          ]
+        }
+      ]
+    }
+  },
+  "2024-07-14": {
+    "SUNDAY": {
+      "title": "Rest"
+    }
+  }
+}

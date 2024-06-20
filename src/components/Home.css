@@ -1,0 +1,16 @@
+.home {
+    padding: 20px;
+    text-align: center;
+    background-color: #f6f6f6;
+    min-height: calc(100vh - 80px); /* Adjust for header and footer height */
+    margin-top: 60px; /* Adjust for header height */
+    margin-bottom: 60px; /* Adjust for footer height */
+}
+
+    .home h1 {
+        color: #333;
+    }
+
+    .home p {
+        color: #666;
+    }

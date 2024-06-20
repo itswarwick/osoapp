@@ -1,0 +1,66 @@
+.workout-details {
+    display: flex;
+    flex-direction: column; /* Stack elements vertically */
+    justify-content: center;
+    align-items: center;
+    background-color: #f6f6f6; /* Light mode color */
+    color: black;
+    margin: 0 auto 20px auto; /* Center the workout details section and remove upper margin */
+    padding: 0 20px 100px 20px; /* Remove upper padding */
+    border-radius: 10px;
+    max-width: 600px; /* Adjust as needed to control the width */
+    width: calc(100% - 40px); /* Ensure it takes up full width minus margins */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+    text-align: center; /* Center align all text */
+    max-height: 80vh; /* Limit height to 80% of the viewport height */
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+body.dark-mode .workout-details {
+    background-color: #1b1b1b; /* Dark mode color */
+    color: white;
+}
+
+.workout-list {
+    list-style-type: none;
+    padding: 0;
+    width: 100%; /* Ensure the list takes up full width */
+    margin: 0; /* Remove upper and lower margin */
+}
+
+    .workout-list li {
+        background-color: #e0e0e0; /* Light mode color */
+        margin: 5px 0;
+        padding: 10px; /* Keep padding for light mode */
+        border-radius: 5px;
+        text-align: center; /* Center align list items */
+    }
+
+body.dark-mode .workout-list li {
+    background-color: #1b1b1b; /* Match the background color in dark mode */
+    color: white; /* Ensure the text color is white in dark mode */
+    padding: 10px; /* Keep padding for dark mode */
+}
+
+.workout-phase {
+    margin-top: 0px;
+    width: 100%; /* Ensure the phase section takes up full width */
+}
+
+    .workout-phase h3 {
+        margin-bottom: 10px;
+    }
+
+h2 {
+    margin: 10px 0 10px 0; /* Remove upper margin, add 5px bottom margin */
+}
+
+p {
+    margin: 0 0 15px 0; /* Remove upper margin, add 5px bottom margin */
+    font-style: italic; /* Italicize text */
+    font-size: 14px;
+}
+
+h3 {
+    margin: 10px 0 5px 0; /* Remove upper margin, add 5px bottom margin */
+}
